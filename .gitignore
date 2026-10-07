@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+users.db
+*.rar
+*.zip
+*.7z
+uploads/
+.env
+.vscode/
+*.log
+*.pkl
